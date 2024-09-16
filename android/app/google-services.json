@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414765872196",
+    "project_id": "flutter-schat",
+    "storage_bucket": "flutter-schat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414765872196:android:bea2d392c3fb734a2d7811",
+        "android_client_info": {
+          "package_name": "com.briananggriawan.flutterschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8JlQEUlPvIqpG13A--GltRD-2QlrDQ28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
